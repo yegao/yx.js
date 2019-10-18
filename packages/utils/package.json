@@ -1,0 +1,29 @@
+{
+  "name": "utils",
+  "version": "0.0.0",
+  "description": "yx.js的工具集合",
+  "keywords": [
+    "utils"
+  ],
+  "author": "叶锆锆 <gaogao.ye@vivo.com>",
+  "homepage": "https://github.com/yegao/yx.js/tree/master/packages/utils#readme",
+  "license": "MIT",
+  "main": "src/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yegao/yx.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/yegao/yx.js/issues"
+  }
+}
